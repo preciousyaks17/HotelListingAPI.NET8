@@ -101,7 +101,7 @@ namespace HotelListing.API.Migrations
                             Address = "Seoul",
                             Name = "Fairfield by Marriott",
                             Rating = 4.4000000000000004,
-                            countryId = 3
+                            countryId = 2
                         },
                         new
                         {
@@ -109,7 +109,7 @@ namespace HotelListing.API.Migrations
                             Address = "Negril",
                             Name = "Sandals Resort and Spa ",
                             Rating = 4.5,
-                            countryId = 2
+                            countryId = 3
                         });
                 });
 
